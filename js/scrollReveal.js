@@ -15,7 +15,7 @@
     scrollReveal.js was inspired by cbpScroller.js (c) 2014 Codrops.
 
     Licensed under the MIT license.
-    http://www.opensource.org/licenses/mit-license.php
+    https://www.opensource.org/licenses/mit-license.php
 
 =============================================================================*/
 
